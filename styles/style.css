@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.header-1 {
+    background-image: url(../images/banner/banner1.png);
+    width: auto;
+    height: 864px;
+}
+.banner {
+    text-align: right;
+    padding-top: 78px;
+    
+}
+.banner-title {
+    font-size: 36px;
+    width: 370px;
+    margin-left: 1000px;
+    margin-top: 82px;
+}
+.banner-text {
+    font-size: 14px;
+    width: 364px;
+    margin-left: 1000px;
+    margin-top: 34px;
+    line-height: 2;
+}
+.btn-title {
+    height: 61px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 18px;
+    border: 0;
+    padding: 18px 30px;
+    margin-top: 30px;
+    margin-right: 154px;
+}
