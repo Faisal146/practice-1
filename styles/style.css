@@ -162,10 +162,8 @@ img{
 
  .bottom-section {
     background-image: linear-gradient(rgba(0,0,0,0.5),#FD6E0A), url(../images/watch.png);
-    /* background-size: cover; */
     background-position: center;
     height: 40vh;
-    /* height: 45vh; */
     width: 1142px;
     background-repeat: no-repeat;
     margin-left: 181px;
@@ -192,12 +190,10 @@ img{
  /* footer--style */
 
  .footer {
-    height: 387px;
+    height: 471px;
     width: 1519px;
     background-color: #161616;
-    /* margin-top: 40px; */
-    margin-bottom: 30px;
-    /* margin-left: 183px; */
+    margin-bottom: 30px;  
 }
 .footer-left {
     height: 117px;
@@ -214,6 +210,10 @@ img{
     margin-top: 62px;
     line-height: 36px;
     color: #fff;
+}
+.footer-title {
+    font-size: 39px;
+    line-height: 2;
 }
 
 .footer-email{
