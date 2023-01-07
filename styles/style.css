@@ -5,7 +5,7 @@
 .header-1 {
     background-image: url(../images/banner/banner1.png);
     width: auto;
-    height: 864px;
+    height: 807px;
 }
 .banner {
     text-align: right;
@@ -36,4 +36,58 @@
     padding: 18px 30px;
     margin-top: 30px;
     margin-right: 154px;
+}
+.banner-mid{
+    padding: 200px 0;
+   
+}
+.mid-content{
+    
+}
+.img-left {
+    width: 35%;
+    
+    margin-left: 175px;
+}
+.content-right {
+    width: 39%;
+    margin-right: 123px;
+    line-height: 2;
+    margin-top: 177px;
+}
+.clear::after{
+    content:"";
+    clear: both;
+    display: block;
+}
+.left{
+   float: left; 
+}
+.right{
+    float: right;
+}
+img{
+    max-width: 100%;
+}
+.mid-container{
+    max-width: 1300px;
+    margin: auto;
+}
+h2{
+    font-size: 30px;
+}
+.about{
+
+}
+.section-title{
+   
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 120px;
+    text-align: center;
+}
+.about-container {
+    display: flex;
+    justify-content: space-around;
+    line-height: 2;
 }
